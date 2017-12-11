@@ -1838,6 +1838,8 @@
 1499680482
 ./gold/reloc.h
 1499680482
+./gold/yyscript.c
+1512954584
 ./gold/workqueue.cc
 1499680482
 ./gold/dwarf_reader.cc
@@ -1980,6 +1982,8 @@
 1499680482
 ./gold/Makefile.in
 1505475507
+./gold/yyscript.h
+1512954586
 ./gold/README
 1499680482
 ./gold/target.cc
